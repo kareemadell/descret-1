@@ -1,0 +1,8 @@
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\bin\Debug\perfect number.exe.config
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\bin\Debug\perfect number.exe
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\bin\Debug\perfect number.pdb
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\obj\Debug\perfect number.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\obj\Debug\perfect number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\obj\Debug\perfect number.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\obj\Debug\perfect number.exe
+C:\Users\Dell XPS\Desktop\engineer\perfect number\perfect number\obj\Debug\perfect number.pdb
