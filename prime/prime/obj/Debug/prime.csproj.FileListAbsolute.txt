@@ -1,0 +1,8 @@
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\bin\Debug\prime.exe.config
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\bin\Debug\prime.exe
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\bin\Debug\prime.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\obj\Debug\prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\obj\Debug\prime.exe
+C:\Users\Dell XPS\Desktop\engineer\prime\prime\obj\Debug\prime.pdb
